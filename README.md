@@ -1,2 +1,2 @@
 # WritingAssistantApp
-Code for medium tutorial How to create a writing assistant using Python
+Updating this to work with a Heroku app and include a Heroku Button 
