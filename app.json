@@ -1,0 +1,6 @@
+{
+  "name": "Python Text Generator",
+  "description": "Simple TextGen app using Python and GPT-2",
+  "repository": "https://github.com/benjaminrust/py_textgen",
+  "keywords": ["python", "gpt-2", "textgen"]
+}
